@@ -68,3 +68,9 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamlondhe1996/) 👨🏻‍💻
  - Follow me on [Instagram](https://www.instagram.com/shubhamlondhe96/) ✨
  - Shoot Me an [Email](mailto:trainwithshubham@gmail.com) 💌
+
+
+
+ 
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
