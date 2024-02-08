@@ -73,7 +73,7 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
  
 [<img align="left" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Email" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />][email]
+[<img align="left" alt="Email" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />][email]
 
 [linkedin]: https://linkedin.com/in/irfann-assana
 [email]: mailto:axelradin@gmail.com
